@@ -1,5 +1,6 @@
 # Data -- too large and Kaggle license prohibits distribution
-data
+/data/raw/
+/data/processed/
 
 # Model files -- too large
 outputs/models
